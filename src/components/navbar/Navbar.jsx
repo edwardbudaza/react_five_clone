@@ -69,28 +69,28 @@ const Navbar = () => {
               <Link className="link menuLink" to="/">
                 Graphics & Design
               </Link>
-              <Link className="link" to="/">
+              <Link className="link" to="/gigs">
                 Video & Animation
               </Link>
-              <Link className="link" to="/">
+              <Link className="link" to="/gigs">
                 Writing & Translation
               </Link>
-              <Link className="link" to="/">
+              <Link className="link" to="/gigs">
                 AI Services
               </Link>
-              <Link className="link" to="/">
+              <Link className="link" to="/gigs">
                 Digital Marketing
               </Link>
-              <Link className="link" to="/">
+              <Link className="link" to="/gigs">
                 Music & Audio
               </Link>
-              <Link className="link" to="/">
+              <Link className="link" to="/gigs">
                 Programming & Tech
               </Link>
-              <Link className="link" to="/">
+              <Link className="link" to="/gigs">
                 Business
               </Link>
-              <Link className="link" to="/">
+              <Link className="link" to="/gigs">
                 Lifestyle
               </Link>
             </div>
