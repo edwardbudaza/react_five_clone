@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 
 const ProjectCard = ({ item }) => {
   return (
-    <Link to="/" className='link'>
+    <Link to="/gig/123" className='link'>
         <div className='projectCard'>
             <img src={item.img} alt="" />
             <div className="info">
