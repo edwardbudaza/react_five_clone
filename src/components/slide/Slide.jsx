@@ -1,7 +1,7 @@
 import React from 'react';
 import Slider from 'infinite-react-carousel';
 
-import './slide.scss';
+import './Slide.scss';
 
 
 const Slide = ({children, slidesToShow, arrowsScroll}) => {
